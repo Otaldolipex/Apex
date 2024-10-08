@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Apex.Api",
+    "\\Apex.Api\\Handlers",
+    "\\Apex.Core",
+    "\\Apex.Core\\Handlers",
+    "\\Apex.Core\\Requests",
+    "\\Apex.Core\\Requests\\Categories",
+    "\\Apex.Core\\Responses"
+  ],
+  "SelectedNode": "\\Apex.Core\\Configuration.cs",
+  "PreviewInSolutionExplorer": false
+}

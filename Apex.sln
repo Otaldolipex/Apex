@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apex.Core", "Apex.Core\Apex.Core.csproj", "{29452636-4A38-4AF0-B27C-35C27BD72BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apex.Api", "Apex.Api\Apex.Api.csproj", "{47E63327-ACA2-4BAB-9C98-7CDB93772803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apex.Web", "Apex.Web\Apex.Web.csproj", "{29ACE26D-D49A-4C02-8968-30F2A086EAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29452636-4A38-4AF0-B27C-35C27BD72BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29452636-4A38-4AF0-B27C-35C27BD72BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29452636-4A38-4AF0-B27C-35C27BD72BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29452636-4A38-4AF0-B27C-35C27BD72BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E63327-ACA2-4BAB-9C98-7CDB93772803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E63327-ACA2-4BAB-9C98-7CDB93772803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E63327-ACA2-4BAB-9C98-7CDB93772803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E63327-ACA2-4BAB-9C98-7CDB93772803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29ACE26D-D49A-4C02-8968-30F2A086EAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ACE26D-D49A-4C02-8968-30F2A086EAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ACE26D-D49A-4C02-8968-30F2A086EAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ACE26D-D49A-4C02-8968-30F2A086EAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
